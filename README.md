@@ -21,3 +21,5 @@ repeater模块
 proxy模块
 
 ![image-20220924192729143.png](https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192729143.png)
+
+PS: 起初有中文乱码问题，调试了半天发现是this.helpers.StringtoBytes的问题，该函数好像不是进行utf8编码，直接用str.getbytes就好了qwq
