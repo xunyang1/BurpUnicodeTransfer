@@ -6,18 +6,18 @@
 
 ## 效果
 
-https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192612415.png
+![image-20220924192612415.png](https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192612415.png)
 
 未开启时
 
-https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192639662.png
+![image-20220924192639662.png](https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192639662.png)
 
 开启时
 
 repeater模块
 
-https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192657654.png
+![image-20220924192657654.png](https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192657654.png)
 
 proxy模块
 
-https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192729143.png
+![image-20220924192729143.png](https://github.com/xunyang1/BurpUnicodeTransfer/blob/main/images/image-20220924192729143.png)
